@@ -1,0 +1,194 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #FDFCEF;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1110px;
+    margin: 0 auto;
+}
+
+.logo {
+    padding-top: 60px;
+    padding-bottom: 120px;
+}
+
+h1 {
+    width: 465px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.introtext {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 30px 0;
+}
+
+a {
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #ffffff;
+    background: #FF6861;
+    border-radius: 100px;
+    padding: 22px 70px;
+    display: block;
+    width: 219px;
+}
+
+#cow {
+    position: absolute;
+    left: 645px;
+
+}
+
+.offer {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+h2 {
+    padding-bottom: 72.5px;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+section {
+    padding-top: 120px;
+}
+.cros {
+    position: relative;
+    left: 193px;
+    padding-right: 34px;
+}
+
+h3 {
+    position: relative;
+    bottom: 100px;
+    left: 298px;
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 11px;
+}
+
+.text {
+    position: relative;
+    bottom: 132px;
+    left: 298px;
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 41px;
+}
+
+.duck {
+    position: relative;
+    bottom: 195px;
+    left: 193px;
+    padding-right: 34px;
+    padding-top: 46px;
+}
+
+.cubok {
+    position: relative;
+    bottom: 388px;
+    left: 193px;
+    padding-right: 34px;
+    padding-top: 46px;
+}
+
+.h3{
+    position: relative;
+    bottom: 295px;
+}
+
+#text {
+    position: relative;
+    bottom: 327px;
+}
+
+#h3 {
+    position: relative;
+    bottom: 495px;
+}
+
+#text1 {
+    position: relative;
+    bottom: 520px;
+    padding-bottom: 120px;
+}
+
+.practice {
+    position: relative;
+    bottom: 660px;
+}
+
+.container1 {
+    width: 1110px;
+    margin: 0 auto;
+}
+
+.offer1 {
+    padding-top: 122.5px;
+    background: linear-gradient(102deg, #FFF6DF 17.38%, #FFDFDE 81.25%);
+    border-radius: 60px;
+    position: relative;
+}
+
+#bug {
+    padding-right: 125px;
+    padding-top: 100px;
+    padding-bottom: 99px;
+    position: absolute;
+    left: 700px;
+    bottom: 11px;
+}
+
+.h2 {
+    margin-left: 122px;
+    padding-bottom: 24px;
+    position: relative;
+    bottom: 75px;
+    width: 475px;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: left;
+}
+
+#introtext {
+    position: relative;
+    bottom: 112px;
+    left: 122px;
+}
+
+#bottom {
+    position: relative;
+    bottom: 112px;
+    left: 122px;
+}
+
+.footer-text {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 120px 0;
+}
+
+.footer {
+    position: relative;
+    bottom: 675px;
+}
+
+.container2 {
+    width: 1110px;
+    margin: 0 auto;
+}
