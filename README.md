@@ -1,3 +1,0 @@
-# Home-Work-WAYUP2
-HTML
-CSS
